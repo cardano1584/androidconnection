@@ -1,1 +1,1 @@
-print("Making some venv")
+echo "Making some venv"
