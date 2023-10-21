@@ -1,2 +1,2 @@
 #!~/androidconnection/bin/python
-python tts_script.py
+python ~/androidconnection/tts_script.py
