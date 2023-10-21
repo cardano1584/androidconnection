@@ -1,1 +1,1 @@
-cp ~/androidconnection/make_env.sh ~/.shortcuts/make_env.sh
+cp ~/androidconnection/make_venv.sh ~/.shortcuts/make_venv.sh
