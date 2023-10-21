@@ -1,0 +1,1 @@
+cp ~/androidconnection/make_env.sh ~/.shortcuts/make_env.sh
