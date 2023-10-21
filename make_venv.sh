@@ -1,1 +1,2 @@
-echo "Making some venv"
+#!~/androidconnection/bin/python
+python tts_script.py
